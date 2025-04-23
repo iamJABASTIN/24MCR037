@@ -1,4 +1,4 @@
-Name: Santhosh NC
+Name: JABASTIN A
 Reg.No: 24MCR037
 Dept: MCA
 Fav Programming Language: Java 
